@@ -20,7 +20,7 @@ else
 
 /*2, 3, 7 -> 7
 44 5 78 -> 78
-22 3 9 -> 22
+22 3 9 -> 22*/
 
 Console.WriteLine("input number");
 int numA = Convert.ToInt32(Console.ReadLine());
@@ -31,7 +31,7 @@ int max = numA;
 if (numB > numA) max = numB;
 if (numC > numB) max = numC;
 
-Console.WriteLine(max);*/
+Console.WriteLine(max);
 
 /*Задача 6: Напишите программу, которая на вход принимает число и выдаёт, является ли число чётным (делится ли оно на два без остатка).
 
@@ -48,12 +48,12 @@ if (number % 2 == 0)
 }
 else
 
-Console.WriteLine("число является не чётным");
+    Console.WriteLine("число является не чётным");
 
-Напишите программу, которая на вход принимает число (N), а на выходе показывает все чётные числа от 1 до N.
+//Напишите программу, которая на вход принимает число (N), а на выходе показывает все чётные числа от 1 до N.
 
-5 -> 2, 4
-8 -> 2, 4, 6, 8
+/*5 -> 2, 4
+8 -> 2, 4, 6, 8*/
 
 Console.WriteLine("Введите значение ");
 int N = Convert.ToInt32(Console.ReadLine());
@@ -74,7 +74,7 @@ while (true)
         break;
 
 
-    i++
+    i++;
 
 }
 
