@@ -37,7 +37,7 @@ Console.WriteLine(max);*/
 
 4 -> да
 -3 -> нет
-7 -> нет
+7 -> нет*/
 
 Console.WriteLine("input number");
 int number = Convert.ToInt32(Console.ReadLine());
@@ -76,7 +76,7 @@ while (true)
 
     i++
 
-}*/
+}
 
 
 
