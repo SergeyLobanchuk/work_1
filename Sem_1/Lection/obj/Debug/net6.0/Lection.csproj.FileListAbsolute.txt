@@ -1,0 +1,15 @@
+C:\Users\Сергей\Desktop\Home\Home_work\Sem_1\Lection\bin\Debug\net6.0\Lection.exe
+C:\Users\Сергей\Desktop\Home\Home_work\Sem_1\Lection\bin\Debug\net6.0\Lection.deps.json
+C:\Users\Сергей\Desktop\Home\Home_work\Sem_1\Lection\bin\Debug\net6.0\Lection.runtimeconfig.json
+C:\Users\Сергей\Desktop\Home\Home_work\Sem_1\Lection\bin\Debug\net6.0\Lection.dll
+C:\Users\Сергей\Desktop\Home\Home_work\Sem_1\Lection\bin\Debug\net6.0\Lection.pdb
+C:\Users\Сергей\Desktop\Home\Home_work\Sem_1\Lection\obj\Debug\net6.0\Lection.csproj.AssemblyReference.cache
+C:\Users\Сергей\Desktop\Home\Home_work\Sem_1\Lection\obj\Debug\net6.0\Lection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Сергей\Desktop\Home\Home_work\Sem_1\Lection\obj\Debug\net6.0\Lection.AssemblyInfoInputs.cache
+C:\Users\Сергей\Desktop\Home\Home_work\Sem_1\Lection\obj\Debug\net6.0\Lection.AssemblyInfo.cs
+C:\Users\Сергей\Desktop\Home\Home_work\Sem_1\Lection\obj\Debug\net6.0\Lection.csproj.CoreCompileInputs.cache
+C:\Users\Сергей\Desktop\Home\Home_work\Sem_1\Lection\obj\Debug\net6.0\Lection.dll
+C:\Users\Сергей\Desktop\Home\Home_work\Sem_1\Lection\obj\Debug\net6.0\refint\Lection.dll
+C:\Users\Сергей\Desktop\Home\Home_work\Sem_1\Lection\obj\Debug\net6.0\Lection.pdb
+C:\Users\Сергей\Desktop\Home\Home_work\Sem_1\Lection\obj\Debug\net6.0\Lection.genruntimeconfig.cache
+C:\Users\Сергей\Desktop\Home\Home_work\Sem_1\Lection\obj\Debug\net6.0\ref\Lection.dll
