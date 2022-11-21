@@ -21,4 +21,3 @@ int max1 = Max(a1, b1, c1);
 
 
 Console.WriteLine(max1);
-
